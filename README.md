@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+You can read more about me [here](https://blog.justi.in/about)
+
+Managing all my current development work through my trusted assitant [@aiva-imthor](https://github.com/aiva-imthor)
 <!--
 **imthor/imthor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
